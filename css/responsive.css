@@ -26,4 +26,25 @@
             padding-left: 8px;
         }
      }
+
+     /* quick notes */
+
+     ul {
+        display: flex;
+        flex-wrap: wrap;
+     }
+
+     .quick-notes li {
+        flex-basis: calc(100% / 3);
+     }
+
+     /* social network */
+
+     .social-networks button {
+        width: 10rem;
+
+        .fab {
+            font-size: 1.1rem;
+        }
+     }
 }
