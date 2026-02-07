@@ -47,4 +47,17 @@
             font-size: 1.1rem;
         }
      }
+
+     /* adv banner */
+
+     .ads {
+        display: block
+     }
+
+     /* presentation */
+
+     .presentation img {
+        float: left;
+        margin-right: 1rem;
+     }
 }
